@@ -72,4 +72,8 @@ Also, YAML supports comments.
 Alias
 ===
 
-`yamltojson` is an alias of `yaml2json`
+`yaml2json` has the following aliases:
+
+  * `yml2json`
+  * `yamltojson`
+  * `ymltojson`
