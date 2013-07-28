@@ -5,6 +5,10 @@
   "keywords": ["yml", "yaml", "json", "cli", "util"],
   "version": "1.0.2",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coolaj86/yaml2json.git"
+  },
   "bin": {
     "yaml2json": "./index.js",
     "yamltojson": "./index.js",
