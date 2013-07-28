@@ -1,4 +1,4 @@
 yaml2json
 =========
 
-A command-line utility to convert a JSON file (.json) to YAML (.yml)
+A command-line utility to convert YAML to JSON (meaning a `.yml` file to a `.json` file)
