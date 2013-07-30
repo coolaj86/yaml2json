@@ -19,7 +19,7 @@ Usage
 Specify a file:
 
 ```bash
-yaml2json ./example.kml
+yaml2json ./example.yml
 
 json2yaml ./example.json | yaml2json
 ```
