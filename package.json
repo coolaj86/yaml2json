@@ -20,7 +20,7 @@
   },
   "test": "echo 'error no test'; exit 1",
   "dependencies": {
-    "yaml": "0.2.x"
+    "js-yaml": "3.0.2"
   },
   "devDependencies": {},
   "preferGlobal": true

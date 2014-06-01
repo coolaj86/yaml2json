@@ -8,5 +8,6 @@
   "grault": 1,
   "garply": true,
   "waldo": "false",
-  "fred": "undefined"
+  "fred": "undefined",
+  "path": "has/slash:0.1"
 }

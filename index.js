@@ -4,7 +4,7 @@
 
   var fs = require('fs')
     , filename = process.argv[2]
-    , YAML = require('yaml')
+    , YAML = require('js-yaml')
     ;
 
   /*
@@ -28,7 +28,7 @@
       return;
     }
 
-    data = YAML.eval(text);
+    data = YAML.safeLoad(text);
     console.info(JSON.stringify(data, null, '  '));
   }
 
